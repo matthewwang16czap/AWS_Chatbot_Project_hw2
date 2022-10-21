@@ -1,0 +1,1 @@
+restaurants only support 'french', 'italian', 'asian', 'breakfast_brunch', 'mxican'
